@@ -1,0 +1,12 @@
+.venue {
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+.venue .venue__tags {
+  margin: 10px 0;
+}
+
+.venue .venue__tag {
+  margin: 0 10px 0 0;
+}

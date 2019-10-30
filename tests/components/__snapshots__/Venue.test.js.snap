@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Venue component shows details 1`] = `
+<div
+  className="venue card"
+>
+  <div
+    className="card-body"
+  >
+    <h5
+      className="card-title"
+    >
+      Hot Shot
+    </h5>
+    <h6
+      className="card-subtitle mb-2 text-muted venue__tags"
+    >
+      <span
+        className="badge badge-secondary venue__tag"
+      >
+        Cafe
+      </span>
+      <span
+        className="badge badge-secondary venue__tag"
+      >
+        Bar
+      </span>
+    </h6>
+    <div
+      className="address card-text"
+    >
+      <div>
+        123 Somewhere
+      </div>
+      <div>
+        Gotham, NY 12345
+      </div>
+      <div />
+    </div>
+  </div>
+</div>
+`;

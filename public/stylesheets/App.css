@@ -1,0 +1,13 @@
+.app {
+  height: 100%;
+}
+
+.app .app__header {
+  background: #bfbfbf;
+  padding: 10px 0 5px 0;
+  text-align: center;
+}
+
+.app .app__header h1 {
+  margin: 0;
+}
