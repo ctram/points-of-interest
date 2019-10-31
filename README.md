@@ -3,7 +3,6 @@
 ## Requirements
 
 - Node.js
-- Parcel.js
 
 ## Installation
 
@@ -17,21 +16,14 @@
 
 - Install dependencies,
 
-  `npm install` or `yarn`.
-
-- Install Parcel globally, if it is not already.
-
-`yarn global add parcel-bundler
-npm:
-
-npm install -g parcel-bundler
+  `npm install`
 
 - Bundle JavaScript
 
-  `parcel public/index.html`.
+  `npm run build`.
 
 - Start server
 
-  `npm start` or `yarn start`.
+  `npm start`.
 
 - Open browser and navigate to `localhost:3000`
