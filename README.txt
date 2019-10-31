@@ -6,7 +6,7 @@
 
 ## Installation
 
-- Export Four Square API credentials into your environment. The following is an example; you should have access to the real credentials through some other means.
+- Export Four Square API credentials into your environment. The following is just an example. Refer to the file 'FOUR_SQUARE_CREDENTIALS.txt' within this project to obtain the actual Four Square's API credentials. 
 
   `export FOUR_SQUARE_CREDENTIALS="client_id=5CU42VV&client_secret=KD89asd"`
 
